@@ -1,0 +1,7 @@
+github.com/drawdy/stomp-ws-go v1.0.0 h1:6ucuWssD71VxyohphZeuX1Q3zqGEEOb3eN0v/Ucnqic=
+github.com/drawdy/stomp-ws-go v1.0.0/go.mod h1:a5VF6PUIvmqf0qeGEW/ElQJ4dOnAF3NSJ1imbT/vbNg=
+github.com/gmallard/stompngo v1.0.13 h1:YAwTeIfLM6nXB6ph1l91ftHPYW8IchoC1RTrHYUvwcA=
+github.com/gmallard/stompngo v1.0.13/go.mod h1:YZR8tJ5t+rQl1qFITWU5rYylnHnuwhbvm7Mserwf57g=
+github.com/gorilla/websocket v1.4.1/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
+github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
